@@ -1,0 +1,70 @@
+H1{font-family:Verdana, Geneva, Tahoma, sans-serif;
+font-size: 50px;
+background-color: rgb(173, 136, 206);
+padding: 2%;
+border-radius: 5px;
+
+
+}
+p{ font-size: 25px;}
+
+body{background-color: rgb(187, 154, 218);
+padding: 20px;}
+
+.Foto_Promo{
+    width: 40%; 
+    
+     
+
+}
+.Foto_Promo:hover{
+    transition: 500ms;
+    width: 45%;
+
+}
+
+.perfil{
+width: 150px;
+}
+
+
+
+td{
+    text-align: center;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding: 20px;
+}
+table{
+max-width: 1000px;
+border-radius: 10px;
+overflow: hidden;
+box-shadow: 0 5px 20px
+
+}
+a{
+    font-size: large;
+    color: black;
+    text-decoration:none;
+}
+
+.Body1 {
+
+	width: 100vw;
+	height: 100vh;
+	background: linear-gradient(334deg, #f5f3f7, #853b9b, #400446);
+	background-size: 180% 180%;
+	animation: gradient-animation 6s ease infinite;
+}
+
+@keyframes gradient-animation {
+	0% {
+		background-position: 0% 20%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}

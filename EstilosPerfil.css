@@ -1,0 +1,104 @@
+H1{font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    background-color: rgb(220, 202, 236);
+    padding: 2%;
+    
+    
+    }
+    
+    .BarraN a{
+        font-family: fantasy;
+        font-size: 25px;
+        background-color: rgb(220, 202, 236);
+       margin-top: 10px;
+
+        padding: 20px;
+        color: black;
+        text-decoration: none;
+    }
+
+    p{ font-size: 25px;}
+    
+    body{background-color: rgb(187, 154, 218);
+    padding: 20px;}
+    table{
+        text-align: center;
+        max-width: 1000px;
+        border-radius: 2%;
+        overflow: hidden;
+    
+    }
+    .perfil{
+        width: 50%;
+        }
+        .perfil1{
+            width: 100%;
+            }
+
+            .Bod {
+                background: grey;
+                background-size: cover;
+                -webkit-animation: bg-color 5s infintite;
+                animation: bg-color 15s infinite;
+              }
+              
+              @-webkit-keyframes bg-color {
+                14.3% {
+                  background-color: #C77DF3;
+                }
+                28.6% {
+                  background-color: #8A2BE2;
+                }
+                42.9% {
+                  background-color: #0000ff;
+                }
+                57.2% {
+                  background-color: #00ff00;
+                }
+                71.5% {
+                  background-color: #ffdd00;
+                }
+                85.8% {
+                  background-color: #ff7700;
+                }
+                100% {
+                  background-color: #FF0000;
+                }
+              }
+              
+              @keyframes bg-color {
+                14.3% {
+                  background-color: #C77DF3;
+                }
+                28.6% {
+                  background-color: #8A2BE2;
+                }
+                42.9% {
+                  background-color: #0000ff;
+                }
+                57.2% {
+                  background-color: #00ff00;
+                }
+                71.5% {
+                  background-color: #ffdd00;
+                }
+                85.8% {
+                  background-color: #ff7700;
+                }
+                100% {
+                  background-color: #FF0000;
+                }
+              }
+              
+              .Body3{
+                background-image: url(http://www.manuelgraphics.com/wp-content/uploads/2014/08/Verus-Arts-Banner.png);
+                  -webkit-text-fill-color:transparent;
+                -webkit-background-clip:text;
+                font-family:Arial;
+                margin-top:100px;
+                margin-left:600px;
+                color:white;
+                font-size:82px;
+                  
+                }
+              
